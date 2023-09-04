@@ -18,4 +18,8 @@ One of my Favourite destination is Switzerland, but also very attractive to the 
    * Swiss chocolate
    * Alpine macaroni
    * Quiche Lorraine
+
+___link to the MyStats.md:___
+https://github.com/ShivaRamReddyMarthala/my2-Marthala/blob/main/MyStats.md
+
    
